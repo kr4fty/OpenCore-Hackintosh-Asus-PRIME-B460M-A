@@ -2,7 +2,6 @@
 
 [![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://web.archive.org/web/20211018064504/https://www.apple.com/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.5-9cf)](https://github.com/acidanthera/OpenCorePkg)
-[![license](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 <img align="right" src="https://applech2.com/wp-content/uploads/2020/07/macOS-110-Big-Sur-256x256-logo-icon.jpg" alt="Critter" width="250">
 
@@ -23,7 +22,7 @@
 | Specifications | Detail | Working |
 | :------------: | :------: | :--------: |
 | Motherboard | Asus PRIME B460M-A | ✅ |
-| Processor | Intel® Core i5-1400 @ 2.90Ghz | ✅ |
+| Processor | Intel® Core i5-10400 @ 2.90Ghz | ✅ |
 | RAM | ADATA 3200MHz 8Gb | ✅ |
 | HDD | SAMSUNG HD322HJ 320GB | ✅ |
 | iGPU | Intel UHD Graphics 630 | ✅ |
