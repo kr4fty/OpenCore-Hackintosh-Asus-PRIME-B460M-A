@@ -6,16 +6,21 @@
 <img align="right" src="https://applech2.com/wp-content/uploads/2020/07/macOS-110-Big-Sur-256x256-logo-icon.jpg" alt="Critter" width="250">
 
 
-**macOS Version: 11.6.1 20G224**
+**macOS Version:** ***11.6.1 [20G224]***
 
-**OpenCore Version: [0.7.5 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.5)**
+**OpenCore Version:** ***[0.7.5 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.5)***
 
- __This OpenCore hackintosh repo is made for Asus PRIME B360M-A i5-10400 UHD630.__
+ *This OpenCore hackintosh repo is made for Asus PRIME B360M-A i5-10400 UHD630.*
 
- __Tested by: @kr4fty__
-
+ **Tested by: _@kr4fty_**
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <img align="center" src="https://i.ibb.co/7tvsbxT/Hackintosh.png" alt="Critter" width="720">
-
 
 ## Configuration
 
@@ -28,6 +33,7 @@
 | iGPU | Intel UHD Graphics 630 | ✅ |
 | Sound Card | Realtek ALC 887 | ✅ |
 | Ethernet Card | Realtek RTL8111H | ✅ |
+| WiFi Card | Atheros AR9285 | ✅ |
 
 ## Working
 
