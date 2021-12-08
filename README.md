@@ -7,15 +7,14 @@
 <img align="right" src="https://i.ibb.co/T103KDc/del3rk1-177dea3e-01d6-4c32-bcfd-8927b7bc8364.png" alt="Critter" width="250">
 
 
-**macOS Version:**
- * ***11.6.1 [20G224]***
- * ***12.0.1 [21A559]***
+**macOS Version supported/tested:**
+ * ***11.6.1 [20G224]*** ✅
+ * ***12.0.1 [21A559]*** ✅
 
 **OpenCore Version:** ***[0.7.5 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.5)***
 
- *This OpenCore hackintosh repo is made for Asus PRIME B360M-A i5-10400 UHD630.*
+ *This OpenCore hackintosh repo is made for Asus PRIME B460M-A i5-10400 UHD630.*
 
- **Tested by: _@kr4fty_**
 <br />
 <br />
 <br />
@@ -56,7 +55,7 @@
  - Settings > Boot > Secure Boot > OS Type: ***Other OS***
  - Settings > Boot > Boot\Boot Configuration > Wait For 'F1' If Error: ***Disabled***
 
-## Refrence
+## References
 
 - [dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [Fu-Yuxuan-hub](https://github.com/Fu-Yuxuan-hub/ASUS-TUF-GAMING-B460M-PLUS-HACKINTOSH)
