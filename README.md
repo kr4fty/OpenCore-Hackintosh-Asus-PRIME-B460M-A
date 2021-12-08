@@ -42,6 +42,7 @@
 - Ethernet
 - Audio
 - USB
+- WiFi (works up to Big Sur)
 
 ## Not Working
 - WiFi Atheros: This kext generates a **Kernel panic** in Monterey (12.0.1)
