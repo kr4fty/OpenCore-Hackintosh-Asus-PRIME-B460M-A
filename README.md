@@ -44,16 +44,49 @@
 - WiFi (works up to Big Sur)
 
 ## Not Working
+
 - WiFi Atheros: This kext generates a **Kernel panic** in Monterey (12.0.1)
 - ...
 
 ## BIOS Settings
+
  - Settings > Advanced > System Agent (SA) Configuration > VT-D: ***Disabled***
  - Settings > Advanced > USB Configuration > XHCI Hand-off: ***Enabled***
  - Settings > Advanced > PCI Subsystem Settings > Above 4G Decoding: ***Enabled***
  - Settings > Boot > CSM(Compatibility Support Module) > Launch CSM: ***Disabled***
  - Settings > Boot > Secure Boot > OS Type: ***Other OS***
  - Settings > Boot > Boot\Boot Configuration > Wait For 'F1' If Error: ***Disabled***
+
+## Note
+
+Please enter your codes (MLB, SystemSerialNumber, SystemUUID), into **config.plist** file
+
+You can use this [guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo) as a reference
+
+```
+<dict>
+    <key>AdviseWindows</key>
+    <false/>
+    <key>MaxBIOSVersion</key>
+    <false/>
+    <key>MLB</key>
+    <string>ENTER HERE</string>
+    <key>ProcessorType</key>
+    <integer>0</integer>
+    <key>ROM</key>
+    <data>ESIzRFVm</data>
+    <key>SpoofVendor</key>
+    <true/>
+    <key>SystemMemoryStatus</key>
+    <string>Auto</string>
+    <key>SystemProductName</key>
+    <string>iMac20,1</string>
+    <key>SystemSerialNumber</key>
+    <string>ENTER HERE</string>
+    <key>SystemUUID</key>
+    <string>ENTER HERE</string>
+</dict>
+```
 
 ## References
 
