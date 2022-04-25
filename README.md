@@ -11,7 +11,7 @@
  * ***11.6.1 [20G224]*** ✅
  * ***12.0.1 [21A559]*** ✅
 
-**OpenCore Version:** ***[0.7.8 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.8)***
+**OpenCore Version:** ***[0.8.0 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.0)***
 
  *This OpenCore hackintosh repo is made for Asus PRIME B460M-A i5-10400 UHD630.*
 
