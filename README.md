@@ -2,7 +2,7 @@
 
 [![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://web.archive.org/web/20211018064504/https://www.apple.com/macos/big-sur/)
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-orange)](https://www.apple.com/es/macos/monterey/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.8-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
 <img align="right" src="https://i.ibb.co/T103KDc/del3rk1-177dea3e-01d6-4c32-bcfd-8927b7bc8364.png" alt="Critter" width="250">
 
