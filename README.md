@@ -4,12 +4,13 @@
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-orange)](https://www.apple.com/es/macos/monterey/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
-<img align="right" src="https://i.ibb.co/T103KDc/del3rk1-177dea3e-01d6-4c32-bcfd-8927b7bc8364.png" alt="Critter" width="250">
+<img align="right" src="https://i.ibb.co/HX5g12n/Ventura.png" alt="Critter" width="250">
 
 
 **macOS Version supported/tested:**
  * ***11.6.1 [20G224]*** ✅
  * ***12.0.1 [21A559]*** ✅
+ * ***13.4   [22F66]*** ✅
 
 **OpenCore Version:** ***[0.9.3 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.3)***
 
@@ -18,7 +19,7 @@
 <br />
 <br />
 <br />
-<img align="center" src="https://i.ibb.co/jMh8vDj/Captura-de-Pantalla-2021-12-07-a-la-s-14-25-05.png" alt="Critter" width="720">
+<img align="center" src="https://i.ibb.co/yqLfxqN/Ventura-Desktop.png" alt="Critter" width="720">
 
 ## Configuration
 
