@@ -2,6 +2,7 @@
 
 [![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://web.archive.org/web/20211018064504/https://www.apple.com/macos/big-sur/)
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-orange)](https://www.apple.com/es/macos/monterey/)
+[![macOS](https://img.shields.io/badge/macOS-13.4-orange)](https://www.apple.com/es/macos/ventura/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
 <img align="right" src="https://i.ibb.co/HX5g12n/Ventura.png" alt="Critter" width="250">
@@ -10,7 +11,7 @@
 **macOS Version supported/tested:**
  * ***11.6.1 [20G224]*** ✅
  * ***12.0.1 [21A559]*** ✅
- * ***13.4   [22F66]*** ✅
+ * ***13.4   [22F66]***  ✅
 
 **OpenCore Version:** ***[0.9.3 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.3)***
 
@@ -23,20 +24,20 @@
 
 ## Configuration
 
-| Specifications | Detail | Big Sur | Monterey |
-| :------------: | :------: | :--------: | :--------: |
-| Motherboard | Asus PRIME B460M-A | ✅ | ✅ |
-| Processor | Intel® Core i5-10400 @ 2.90Ghz | ✅ | ✅ |
-| RAM | ADATA 3200MHz 8Gb | ✅ | ✅ |
-| HDD | SAMSUNG HD322HJ 320GB | ✅ | ✅ |
-| iGPU | Intel UHD Graphics 630 | ✅ | ✅ |
-| Sound Card | Realtek ALC 887 | ✅ | ✅ |
-| Ethernet Card | Realtek RTL8111H | ✅ | ✅ |
-| WiFi Card | Atheros AR9285 | ✅ | ✘ |
+| Specifications | Detail | Big Sur | Monterey | Ventura |
+| :------------: | :------: | :--------: | :--------: | :--------: |
+| Motherboard | Asus PRIME B460M-A | ✅ | ✅ | ✅ |
+| Processor | Intel® Core i5-10400 @ 2.90Ghz | ✅ | ✅ | ✅ |
+| RAM | ADATA 3200MHz 8Gb | ✅ | ✅ | ✅ |
+| HDD | SAMSUNG HD322HJ 320GB | ✅ | ✅ | ✅ |
+| iGPU | Intel UHD Graphics 630 | ✅ | ✅ | ✅ |
+| Sound Card | Realtek ALC 887 | ✅ | ✅ | ✅ |
+| Ethernet Card | Realtek RTL8111H | ✅ | ✅ | ✅ |
+| WiFi Card | Atheros AR9285 | ✅ | ✘ | ✘ |
 
 ## Working
 
-- macOS 11.6.1 - 12.0.1
+- macOS 11.6.1 - 13.4
 - CPU Boost
 - iGPU
 - Ethernet
@@ -46,7 +47,7 @@
 
 ## Not Working
 
-- WiFi Atheros: This kext generates a **Kernel panic** in Monterey (12.0.1)
+- WiFi Atheros: This kext generates a **Kernel panic** in Monterey and higher version
 - ...
 
 ## BIOS Settings
