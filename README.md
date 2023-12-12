@@ -3,7 +3,7 @@
 [![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://web.archive.org/web/20211018064504/https://www.apple.com/macos/big-sur/)
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-orange)](https://www.apple.com/es/macos/monterey/)
 [![macOS](https://img.shields.io/badge/macOS-13.4-orange)](https://www.apple.com/es/macos/ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
 <img align="right" src="https://i.ibb.co/HX5g12n/Ventura.png" alt="Critter" width="250">
 
@@ -13,7 +13,7 @@
  * ***12.0.1 [21A559]*** ✅
  * ***13.4   [22F66]***  ✅
 
-**OpenCore Version:** ***[0.9.3 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.3)***
+**OpenCore Version:** ***[0.9.7 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)***
 
  *This OpenCore hackintosh repo is made for Asus PRIME B460M-A i5-10400 UHD630.*
 
