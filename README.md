@@ -3,41 +3,43 @@
 [![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://web.archive.org/web/20211018064504/https://www.apple.com/macos/big-sur/)
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-orange)](https://www.apple.com/es/macos/monterey/)
 [![macOS](https://img.shields.io/badge/macOS-13.4-orange)](https://www.apple.com/es/macos/ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-14.5-orange)](https://www.apple.com/es/macos/ventura/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
-<img align="right" src="https://i.ibb.co/HX5g12n/Ventura.png" alt="Critter" width="250">
+<img align="right" src="https://i.ibb.co/rHy5mN0/sonoma.png" alt="Critter" width="250">
 
 
 **macOS Version supported/tested:**
  * ***11.6.1 [20G224]*** ✅
  * ***12.0.1 [21A559]*** ✅
  * ***13.4   [22F66]***  ✅
+ * ***14.5   [23F79]***  ✅
 
-**OpenCore Version:** ***[0.9.7 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)***
+**OpenCore Version:** ***[1.0.0 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.0)***
 
  *This OpenCore hackintosh repo is made for Asus PRIME B460M-A i5-10400 UHD630.*
 
 <br />
 <br />
 <br />
-<img align="center" src="https://i.ibb.co/yqLfxqN/Ventura-Desktop.png" alt="Critter" width="720">
+<img align="center" src="https://i.ibb.co/GQ9DG5Y/Captura-de-pantalla-2024-06-10-a-la-s-9-59-20-p-m.png" alt="Critter" width="720">
 
 ## Configuration
 
-| Specifications | Detail | Big Sur | Monterey | Ventura |
-| :------------: | :------: | :--------: | :--------: | :--------: |
-| Motherboard | Asus PRIME B460M-A | ✅ | ✅ | ✅ |
-| Processor | Intel® Core i5-10400 @ 2.90Ghz | ✅ | ✅ | ✅ |
-| RAM | ADATA 3200MHz 8Gb | ✅ | ✅ | ✅ |
-| HDD | SAMSUNG HD322HJ 320GB | ✅ | ✅ | ✅ |
-| iGPU | Intel UHD Graphics 630 | ✅ | ✅ | ✅ |
-| Sound Card | Realtek ALC 887 | ✅ | ✅ | ✅ |
-| Ethernet Card | Realtek RTL8111H | ✅ | ✅ | ✅ |
-| WiFi Card | Atheros AR9285 | ✅ | ✘ | ✘ |
+| Specifications | Detail | Big Sur | Monterey | Ventura |Sonoma|
+| :------------: | :------: | :--------: | :--------: | :--------: |:--------: |
+| Motherboard | Asus PRIME B460M-A | ✅ | ✅ | ✅ |✅ |
+| Processor | Intel® Core i5-10400 @ 2.90Ghz | ✅ | ✅ | ✅ |✅ |
+| RAM | ADATA 3200MHz 8Gb | ✅ | ✅ | ✅ |✅ |
+| HDD | SAMSUNG HD322HJ 320GB | ✅ | ✅ | ✅ |✅ |
+| iGPU | Intel UHD Graphics 630 | ✅ | ✅ | ✅ |✅ |
+| Sound Card | Realtek ALC 887 | ✅ | ✅ | ✅ |✅ |
+| Ethernet Card | Realtek RTL8111H | ✅ | ✅ | ✅ |✅ |
+| WiFi Card | Atheros AR9285 | ✅ | ✘ | ✘ |✘ |
 
 ## Working
 
-- macOS 11.6.1 - 13.4
+- macOS 11.6.1 - 14.5
 - CPU Boost
 - iGPU
 - Ethernet
