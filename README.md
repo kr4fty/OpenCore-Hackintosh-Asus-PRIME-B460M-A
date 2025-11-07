@@ -4,7 +4,7 @@
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-orange)](https://www.apple.com/es/macos/monterey/)
 [![macOS](https://img.shields.io/badge/macOS-13.4-orange)](https://www.apple.com/es/macos/ventura/)
 [![macOS](https://img.shields.io/badge/macOS-14.5-orange)](https://www.apple.com/es/macos/ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.3-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.6-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
 <img align="right" src="https://i.ibb.co/rHy5mN0/sonoma.png" alt="Critter" width="250">
 
@@ -15,7 +15,7 @@
  * ***13.4   [22F66]***  ✅
  * ***14.5   [23F79]***  ✅
 
-**OpenCore Version:** ***[1.0.3 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.3)***
+**OpenCore Version:** ***[1.0.6 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.6)***
 
  *This OpenCore hackintosh repo is made for Asus PRIME B460M-A i5-10400 UHD630.*
 
